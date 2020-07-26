@@ -24,7 +24,7 @@
       "@vocab": "http://fallback.org/"
     }
   ],
-  "id": "https://raw.githubusercontent.com/AutherOrg/static/master/ethereum/ropsten/certificates/fictionaluniversity/Blockchain-for-developers-1-Dr-Jane-Doe.json",
+  "id": "https://raw.githubusercontent.com/AutherOrg/static/master/openbadges/test/Blockchain-for-developers-1-Dr-Jane-Doe.json",
   "type": "Assertion",
   "recipient": {
     "type": "email",
